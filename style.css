@@ -1,3 +1,6 @@
 p{color:red;
   background-color:gray;
+  padding: 50px;
+  border: solid 1px black;
+  font-size: 20px;
 }
